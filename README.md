@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy JD 👋
 
-<!--
-**SoyJD-Dev/SoyJD-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador y estudiante de licenciatura en la Universidad Tecnológica de Panamá. Combino mi trabajo profesional con mis estudios, creando aplicaciones empresariales y proyectos académicos.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Plataformas:** Power Platform y Creatio (desarrollador certificado)
+- **Azure:** Azure Functions, Azure DevOps y Azure SQL Database
+- **Lenguajes:** Java y Python
+- **Bases de datos:** SQL Server Management Studio (SSMS)
+
+## Proyecto destacado
+
+**[Chatbot UTP para profesores](https://github.com/SoyJD-Dev/chatbot-utp-profesores)**: responde preguntas sobre reglamento, calendario, carreras y trámites de la Universidad Tecnológica de Panamá, e indica la fuente de sus respuestas.
+
+- Hecho en Java, sin librerías externas
+- Publicado con Docker en Render
+- [Ver la demo](https://chatbot-utp-profesores.onrender.com)
